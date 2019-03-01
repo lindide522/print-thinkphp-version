@@ -1,0 +1,17 @@
+{
+    "name": "lindd520/thinkphp-print-version",
+    "description": "print thinphp version",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "lindide522",
+            "email": "lindide522@163.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+    "psr-4": {"PrintVersion\\": "src"},
+    "files": ["autoload.php"]
+	}
+}
